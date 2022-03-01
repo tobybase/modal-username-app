@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modal-username-app/static/css/main.b2718699.css",
+    "main.js": "/modal-username-app/static/js/main.ade9bf21.js",
+    "index.html": "/modal-username-app/index.html",
+    "main.b2718699.css.map": "/modal-username-app/static/css/main.b2718699.css.map",
+    "main.ade9bf21.js.map": "/modal-username-app/static/js/main.ade9bf21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2718699.css",
+    "static/js/main.ade9bf21.js"
+  ]
+}
